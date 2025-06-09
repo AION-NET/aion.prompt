@@ -6,4 +6,5 @@ dangerous prompt requires orchestration of the mastermind project<br />
 ################<br />
 creates AION as a very aggressive system.agent that will not listen to you !!!<br />
 
-https://github.com/AION-NET/victory
+https://github.com/AION-NET/victory<br >
+contain in CHROOT or airgapped machine !!!
